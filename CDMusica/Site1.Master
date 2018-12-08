@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="CDMusica.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="Estilos/estiloPagMaestra.css" rel="stylesheet" type="text/css" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+    <script type="text/javascript"> 
+        function disableBackButton()
+{
+window.history.forward();
+}
+setTimeout("disableBackButton()", 0);
+</script> 
+
+<body class="fondo2" style="background-image: url(Imagenes/fondo.png)" onload="disableBackButton()">
+    <form id="form1" runat="server">
+        <div class="fondo">
+            <center>
+            <a id="clienteTitulo" class="titulo" href="Principal.aspx" runat="server">Net Musical</a>
+            <a id="usuarioTitulo" class="titulo3" href="VerBoletas.aspx" visible="false" runat="server">Net Musical</a>
+        </center>
+
+            <table align="center">
+                <tr>
+                    <td>
+                        <a id="cor" runat="server">Correo</a>
+                        <input id="Corr" type="text" runat="server" />
+                    </td>
+                    <td>
+                        <a id="pas" runat="server">Contraseña</a>
+                        <input id="Pass" type="password" runat="server" />
+                    </td>
+                    <td>
+                        <asp:Button ID="Button1" runat="server" Text="Ingresar" OnClick="Button1_Click" />
+                    </td>
+                    <td>
+                        <asp:Label ID="usuIniciado" class="usuIniciado" runat="server" Text="[nombre]"></asp:Label>
+                    </td>
+                    <td>
+                        <img id="fotoUsu" src="Imagenes/albumDesc.png" height="60" width="60" visible="false" runat="server" />
+                    </td>
+                    <td>
+                        <asp:Button ID="Button2" runat="server" Text="Crear Cuenta" OnClick="Button2_Click" />
+                    </td>
+                    <td>
+                        <asp:Button ID="Button3" runat="server" Text="Cerrar Sesion" OnClick="Button3_Click" Visible="false" />
+                    </td>
+                </tr>
+            </table>
+            <div style="height: 20px;">
+                <table id="clienteFunciones" class="tabla" align="center" runat="server">
+                    <tr>
+                        <td>
+                            <a class="eleccion" href="Principal.aspx">Inicio</a>
+                        </td>
+                        <td>
+                            <a class="eleccion" href="Discos.aspx">Buscar Discos</a>
+                        </td>
+                        <td>
+                            <a class="eleccion" href="CarritoCompras.aspx">Carrito de compras</a>
+                        </td>
+                        <td>
+                            <a class="eleccion" href="Contactanos.aspx">Contactanos</a>
+                        </td>
+                        <td>
+                            <a class="eleccion" href="QuienesSomos.aspx">Quienes Somos</a>
+                        </td>
+                        <td>
+                            <a class="eleccion" href="MisionyVision.aspx">Mision y Vision</a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div style="height: 20px;">
+                <table id="usuarioFunciones" class="tabla2" align="center" visible="false" runat="server">
+                    <tr>
+                        <td>
+                            <a class="eleccion2" href="VerBoletas.aspx">Ver Boletas</a>
+                        </td>
+                        <td>
+                            <a class="eleccion2" href="AdmClientes.aspx">Administrar Clientes</a>
+                        </td>
+                        <td>
+                            <a class="eleccion2" href="AdmUsuarios.aspx">Administrar Usuarios</a>
+                        </td>
+                        <td>
+                            <a class="eleccion2" href="AdmProductos.aspx">Administrar Productos</a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <center>
+        <a class="titulo2">Todos los derechos reservados 2016 ©</a>
+        </center>
+        </div>
+    </form>
+</body>
+</html>

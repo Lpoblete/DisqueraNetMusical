@@ -1,0 +1,42 @@
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.xml
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.dll
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.pdb
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Controlador.dll
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.dll
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.pdb
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Controlador.pdb
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\f.csprojResolveAssemblyReference.cache
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\Modelo.Fakes.dll
+E:\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\Modelo.Fakes.pdb
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.xml
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.dll
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.pdb
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Controlador.dll
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.dll
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.pdb
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Controlador.pdb
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\f.csprojResolveAssemblyReference.cache
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\Modelo.Fakes.dll
+E:\Progra 4\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\Modelo.Fakes.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.xml
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.Fakes.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Controlador.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Modelo.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Controlador.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\f.csprojResolveAssemblyReference.cache
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\Modelo.Fakes.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\CDMusica\obj\Debug\Fakes\m\o\Modelo.Fakes.pdb

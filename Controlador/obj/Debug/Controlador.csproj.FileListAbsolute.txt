@@ -1,0 +1,56 @@
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\bin\Debug\Controlador.dll
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\bin\Debug\Controlador.pdb
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\bin\Debug\Modelo.dll
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\bin\Debug\Modelo.pdb
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\obj\Debug\Controlador.dll
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\obj\Debug\Controlador.pdb
+C:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\bin\Debug\Controlador.dll
+C:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\bin\Debug\Controlador.pdb
+C:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\bin\Debug\Modelo.dll
+C:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\bin\Debug\Modelo.pdb
+C:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\obj\Debug\Controlador.dll
+C:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Controlador\obj\Debug\Controlador.pdb
+E:\ProyectoFinal\Controlador\bin\Debug\Controlador.dll
+E:\ProyectoFinal\Controlador\bin\Debug\Controlador.pdb
+E:\ProyectoFinal\Controlador\bin\Debug\Modelo.dll
+E:\ProyectoFinal\Controlador\bin\Debug\Modelo.pdb
+E:\ProyectoFinal\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+E:\ProyectoFinal\Controlador\obj\Debug\Controlador.dll
+E:\ProyectoFinal\Controlador\obj\Debug\Controlador.pdb
+D:\Users\mexan\Desktop\ProyectoFinal\Controlador\bin\Debug\Controlador.dll
+D:\Users\mexan\Desktop\ProyectoFinal\Controlador\bin\Debug\Controlador.pdb
+D:\Users\mexan\Desktop\ProyectoFinal\Controlador\bin\Debug\Modelo.dll
+D:\Users\mexan\Desktop\ProyectoFinal\Controlador\bin\Debug\Modelo.pdb
+D:\Users\mexan\Desktop\ProyectoFinal\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+D:\Users\mexan\Desktop\ProyectoFinal\Controlador\obj\Debug\Controlador.dll
+D:\Users\mexan\Desktop\ProyectoFinal\Controlador\obj\Debug\Controlador.pdb
+E:\Progra 4\ProyectoFinal\Controlador\bin\Debug\Controlador.dll
+E:\Progra 4\ProyectoFinal\Controlador\bin\Debug\Controlador.pdb
+E:\Progra 4\ProyectoFinal\Controlador\bin\Debug\Modelo.dll
+E:\Progra 4\ProyectoFinal\Controlador\bin\Debug\Modelo.pdb
+E:\Progra 4\ProyectoFinal\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+E:\Progra 4\ProyectoFinal\Controlador\obj\Debug\Controlador.dll
+E:\Progra 4\ProyectoFinal\Controlador\obj\Debug\Controlador.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\Controlador\bin\Debug\Controlador.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\Controlador\bin\Debug\Controlador.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\Controlador\bin\Debug\Modelo.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\Controlador\bin\Debug\Modelo.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\19481438-0\Desktop\ProyectoFinal\Controlador\obj\Debug\Controlador.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\Controlador\obj\Debug\Controlador.pdb
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Controlador\bin\Debug\Controlador.dll
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Controlador\bin\Debug\Controlador.pdb
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Controlador\bin\Debug\Modelo.dll
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Controlador\bin\Debug\Modelo.pdb
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Controlador\obj\Debug\Controlador.dll
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Controlador\obj\Debug\Controlador.pdb
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Controlador\obj\Debug\Controlador.dll
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Controlador\obj\Debug\Controlador.pdb
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Controlador\bin\Debug\Controlador.dll
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Controlador\bin\Debug\Controlador.pdb
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Controlador\bin\Debug\Modelo.dll
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Controlador\bin\Debug\Modelo.pdb

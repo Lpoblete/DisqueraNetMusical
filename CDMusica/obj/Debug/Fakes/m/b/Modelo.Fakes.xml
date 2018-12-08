@@ -1,0 +1,662 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Modelo.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Modelo.Fakes.ShimContacto">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Modelo.Contacto</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimContacto.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimContacto.#ctor(Modelo.Contacto)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimContacto.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimContacto.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimContacto.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimContacto.Constructor">
+            <summary>Establecer el shim de Contacto.Contacto()</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimContacto.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimDetalleVenta">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Modelo.DetalleVenta</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimDetalleVenta.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimDetalleVenta.#ctor(Modelo.DetalleVenta)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimDetalleVenta.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimDetalleVenta.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.CantidadGet">
+            <summary>Establecer el shim de DetalleVenta.get_Cantidad()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.CantidadSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_Cantidad(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.Constructor">
+            <summary>Establecer el shim de DetalleVenta.DetalleVenta()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.ConstructorInt32Int32Int32Int32Int32">
+            <summary>Establecer el shim de DetalleVenta.DetalleVenta(Int32 id, Int32 idVenta, Int32 idProducto, Int32 cantidad, Int32 subTotal)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.IdGet">
+            <summary>Establecer el shim de DetalleVenta.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.IdProductoGet">
+            <summary>Establecer el shim de DetalleVenta.get_IdProducto()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.IdProductoSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_IdProducto(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.IdSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.IdVentaGet">
+            <summary>Establecer el shim de DetalleVenta.get_IdVenta()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.IdVentaSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_IdVenta(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.SubTotalGet">
+            <summary>Establecer el shim de DetalleVenta.get_SubTotal()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.SubTotalSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_SubTotal(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimDetalleVenta.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.CantidadGet">
+            <summary>Establecer el shim de DetalleVenta.get_Cantidad()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.CantidadSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_Cantidad(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.IdGet">
+            <summary>Establecer el shim de DetalleVenta.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.IdProductoGet">
+            <summary>Establecer el shim de DetalleVenta.get_IdProducto()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.IdProductoSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_IdProducto(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.IdSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.IdVentaGet">
+            <summary>Establecer el shim de DetalleVenta.get_IdVenta()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.IdVentaSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_IdVenta(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.SubTotalGet">
+            <summary>Establecer el shim de DetalleVenta.get_SubTotal()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimDetalleVenta.AllInstances.SubTotalSetInt32">
+            <summary>Establecer el shim de DetalleVenta.set_SubTotal(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimGenero">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Modelo.Genero</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimGenero.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimGenero.#ctor(Modelo.Genero)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimGenero.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimGenero.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.Constructor">
+            <summary>Establecer el shim de Genero.Genero()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.ConstructorInt32String">
+            <summary>Establecer el shim de Genero.Genero(Int32 id, String descripcion)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.DescripcionGet">
+            <summary>Establecer el shim de Genero.get_Descripcion()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.DescripcionSetString">
+            <summary>Establecer el shim de Genero.set_Descripcion(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.IdGet">
+            <summary>Establecer el shim de Genero.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.IdSetInt32">
+            <summary>Establecer el shim de Genero.set_Id(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimGenero.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.AllInstances.DescripcionGet">
+            <summary>Establecer el shim de Genero.get_Descripcion()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.AllInstances.DescripcionSetString">
+            <summary>Establecer el shim de Genero.set_Descripcion(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.AllInstances.IdGet">
+            <summary>Establecer el shim de Genero.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimGenero.AllInstances.IdSetInt32">
+            <summary>Establecer el shim de Genero.set_Id(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimProducto">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Modelo.Producto</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimProducto.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimProducto.#ctor(Modelo.Producto)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimProducto.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimProducto.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.Constructor">
+            <summary>Establecer el shim de Producto.Producto()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.ConstructorInt32StringStringInt32Int32StringString">
+            <summary>Establecer el shim de Producto.Producto(Int32 id, String nombArtista, String nombAlbum, Int32 precio, Int32 stock, String genero, String imagen)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.GeneroGet">
+            <summary>Establecer el shim de Producto.get_Genero()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.GeneroSetString">
+            <summary>Establecer el shim de Producto.set_Genero(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.IdGet">
+            <summary>Establecer el shim de Producto.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.IdSetInt32">
+            <summary>Establecer el shim de Producto.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.ImagenGet">
+            <summary>Establecer el shim de Producto.get_Imagen()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.ImagenSetString">
+            <summary>Establecer el shim de Producto.set_Imagen(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.NombreAlbumGet">
+            <summary>Establecer el shim de Producto.get_NombreAlbum()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.NombreAlbumSetString">
+            <summary>Establecer el shim de Producto.set_NombreAlbum(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.NombreArtistaGet">
+            <summary>Establecer el shim de Producto.get_NombreArtista()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.NombreArtistaSetString">
+            <summary>Establecer el shim de Producto.set_NombreArtista(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.PrecioGet">
+            <summary>Establecer el shim de Producto.get_Precio()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.PrecioSetInt32">
+            <summary>Establecer el shim de Producto.set_Precio(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.StockGet">
+            <summary>Establecer el shim de Producto.get_Stock()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.StockSetInt32">
+            <summary>Establecer el shim de Producto.set_Stock(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimProducto.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.GeneroGet">
+            <summary>Establecer el shim de Producto.get_Genero()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.GeneroSetString">
+            <summary>Establecer el shim de Producto.set_Genero(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.IdGet">
+            <summary>Establecer el shim de Producto.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.IdSetInt32">
+            <summary>Establecer el shim de Producto.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.ImagenGet">
+            <summary>Establecer el shim de Producto.get_Imagen()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.ImagenSetString">
+            <summary>Establecer el shim de Producto.set_Imagen(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.NombreAlbumGet">
+            <summary>Establecer el shim de Producto.get_NombreAlbum()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.NombreAlbumSetString">
+            <summary>Establecer el shim de Producto.set_NombreAlbum(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.NombreArtistaGet">
+            <summary>Establecer el shim de Producto.get_NombreArtista()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.NombreArtistaSetString">
+            <summary>Establecer el shim de Producto.set_NombreArtista(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.PrecioGet">
+            <summary>Establecer el shim de Producto.get_Precio()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.PrecioSetInt32">
+            <summary>Establecer el shim de Producto.set_Precio(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.StockGet">
+            <summary>Establecer el shim de Producto.get_Stock()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimProducto.AllInstances.StockSetInt32">
+            <summary>Establecer el shim de Producto.set_Stock(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimTipoUsuario">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Modelo.TipoUsuario</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimTipoUsuario.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimTipoUsuario.#ctor(Modelo.TipoUsuario)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimTipoUsuario.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimTipoUsuario.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.Constructor">
+            <summary>Establecer el shim de TipoUsuario.TipoUsuario()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.ConstructorInt32String">
+            <summary>Establecer el shim de TipoUsuario.TipoUsuario(Int32 id, String descripcion)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.DescripcionGet">
+            <summary>Establecer el shim de TipoUsuario.get_Descripcion()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.DescripcionSetString">
+            <summary>Establecer el shim de TipoUsuario.set_Descripcion(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.IdGet">
+            <summary>Establecer el shim de TipoUsuario.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.IdSetInt32">
+            <summary>Establecer el shim de TipoUsuario.set_Id(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimTipoUsuario.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.AllInstances.DescripcionGet">
+            <summary>Establecer el shim de TipoUsuario.get_Descripcion()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.AllInstances.DescripcionSetString">
+            <summary>Establecer el shim de TipoUsuario.set_Descripcion(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.AllInstances.IdGet">
+            <summary>Establecer el shim de TipoUsuario.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimTipoUsuario.AllInstances.IdSetInt32">
+            <summary>Establecer el shim de TipoUsuario.set_Id(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimUsuario">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Modelo.Usuario</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimUsuario.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimUsuario.#ctor(Modelo.Usuario)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimUsuario.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimUsuario.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.BloqueoGet">
+            <summary>Establecer el shim de Usuario.get_Bloqueo()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.BloqueoSetString">
+            <summary>Establecer el shim de Usuario.set_Bloqueo(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.Constructor">
+            <summary>Establecer el shim de Usuario.Usuario()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.ConstructorStringStringStringStringInt32StringString">
+            <summary>Establecer el shim de Usuario.Usuario(String correo, String tipo_usuario, String pass, String nombre, Int32 edad, String bloqueo, String foto)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.CorreoGet">
+            <summary>Establecer el shim de Usuario.get_Correo()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.CorreoSetString">
+            <summary>Establecer el shim de Usuario.set_Correo(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.EdadGet">
+            <summary>Establecer el shim de Usuario.get_Edad()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.EdadSetInt32">
+            <summary>Establecer el shim de Usuario.set_Edad(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.FotoGet">
+            <summary>Establecer el shim de Usuario.get_Foto()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.FotoSetString">
+            <summary>Establecer el shim de Usuario.set_Foto(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.NombreGet">
+            <summary>Establecer el shim de Usuario.get_Nombre()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.NombreSetString">
+            <summary>Establecer el shim de Usuario.set_Nombre(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.PassGet">
+            <summary>Establecer el shim de Usuario.get_Pass()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.PassSetString">
+            <summary>Establecer el shim de Usuario.set_Pass(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.Tipo_usuarioGet">
+            <summary>Establecer el shim de Usuario.get_Tipo_usuario()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.Tipo_usuarioSetString">
+            <summary>Establecer el shim de Usuario.set_Tipo_usuario(String value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimUsuario.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.BloqueoGet">
+            <summary>Establecer el shim de Usuario.get_Bloqueo()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.BloqueoSetString">
+            <summary>Establecer el shim de Usuario.set_Bloqueo(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.CorreoGet">
+            <summary>Establecer el shim de Usuario.get_Correo()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.CorreoSetString">
+            <summary>Establecer el shim de Usuario.set_Correo(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.EdadGet">
+            <summary>Establecer el shim de Usuario.get_Edad()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.EdadSetInt32">
+            <summary>Establecer el shim de Usuario.set_Edad(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.FotoGet">
+            <summary>Establecer el shim de Usuario.get_Foto()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.FotoSetString">
+            <summary>Establecer el shim de Usuario.set_Foto(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.NombreGet">
+            <summary>Establecer el shim de Usuario.get_Nombre()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.NombreSetString">
+            <summary>Establecer el shim de Usuario.set_Nombre(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.PassGet">
+            <summary>Establecer el shim de Usuario.get_Pass()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.PassSetString">
+            <summary>Establecer el shim de Usuario.set_Pass(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.Tipo_usuarioGet">
+            <summary>Establecer el shim de Usuario.get_Tipo_usuario()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimUsuario.AllInstances.Tipo_usuarioSetString">
+            <summary>Establecer el shim de Usuario.set_Tipo_usuario(String value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimVentas">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Modelo.Ventas</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimVentas.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimVentas.#ctor(Modelo.Ventas)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimVentas.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Modelo.Fakes.ShimVentas.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.ClienteGet">
+            <summary>Establecer el shim de Ventas.get_Cliente()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.ClienteSetString">
+            <summary>Establecer el shim de Ventas.set_Cliente(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.Constructor">
+            <summary>Establecer el shim de Ventas.Ventas()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.ConstructorInt32StringStringInt32">
+            <summary>Establecer el shim de Ventas.Ventas(Int32 id, String fecha, String cliente, Int32 totalVenta)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.FechaGet">
+            <summary>Establecer el shim de Ventas.get_Fecha()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.FechaSetString">
+            <summary>Establecer el shim de Ventas.set_Fecha(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.IdGet">
+            <summary>Establecer el shim de Ventas.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.IdSetInt32">
+            <summary>Establecer el shim de Ventas.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.TotalVentaGet">
+            <summary>Establecer el shim de Ventas.get_TotalVenta()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.TotalVentaSetInt32">
+            <summary>Establecer el shim de Ventas.set_TotalVenta(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.ShimVentas.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.AllInstances.ClienteGet">
+            <summary>Establecer el shim de Ventas.get_Cliente()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.AllInstances.ClienteSetString">
+            <summary>Establecer el shim de Ventas.set_Cliente(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.AllInstances.FechaGet">
+            <summary>Establecer el shim de Ventas.get_Fecha()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.AllInstances.FechaSetString">
+            <summary>Establecer el shim de Ventas.set_Fecha(String value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.AllInstances.IdGet">
+            <summary>Establecer el shim de Ventas.get_Id()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.AllInstances.IdSetInt32">
+            <summary>Establecer el shim de Ventas.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.AllInstances.TotalVentaGet">
+            <summary>Establecer el shim de Ventas.get_TotalVenta()</summary>
+        </member>
+        <member name="P:Modelo.Fakes.ShimVentas.AllInstances.TotalVentaSetInt32">
+            <summary>Establecer el shim de Ventas.set_TotalVenta(Int32 value)</summary>
+        </member>
+        <member name="T:Modelo.Fakes.StubContacto">
+            <summary>Tipo stub de Modelo.Contacto</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubContacto.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubContacto.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubContacto</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubContacto.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubContacto.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubContacto.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Modelo.Fakes.StubDetalleVenta">
+            <summary>Tipo stub de Modelo.DetalleVenta</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubDetalleVenta.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubDetalleVenta.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubDetalleVenta.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubDetalleVenta</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubDetalleVenta.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubDetalleVenta.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubDetalleVenta.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Modelo.Fakes.StubGenero">
+            <summary>Tipo stub de Modelo.Genero</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubGenero.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubGenero.#ctor(System.Int32,System.String)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubGenero.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubGenero</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubGenero.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubGenero.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubGenero.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Modelo.Fakes.StubProducto">
+            <summary>Tipo stub de Modelo.Producto</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubProducto.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubProducto.#ctor(System.Int32,System.String,System.String,System.Int32,System.Int32,System.String,System.String)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubProducto.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubProducto</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubProducto.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubProducto.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubProducto.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Modelo.Fakes.StubTipoUsuario">
+            <summary>Tipo stub de Modelo.TipoUsuario</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubTipoUsuario.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubTipoUsuario.#ctor(System.Int32,System.String)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubTipoUsuario.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubTipoUsuario</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubTipoUsuario.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubTipoUsuario.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubTipoUsuario.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Modelo.Fakes.StubUsuario">
+            <summary>Tipo stub de Modelo.Usuario</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubUsuario.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubUsuario.#ctor(System.String,System.String,System.String,System.String,System.Int32,System.String,System.String)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubUsuario.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubUsuario</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubUsuario.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubUsuario.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubUsuario.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Modelo.Fakes.StubVentas">
+            <summary>Tipo stub de Modelo.Ventas</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubVentas.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubVentas.#ctor(System.Int32,System.String,System.String,System.Int32)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Modelo.Fakes.StubVentas.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubVentas</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubVentas.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubVentas.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Modelo.Fakes.StubVentas.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>

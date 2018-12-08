@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Controlador.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Controlador.Fakes.ShimConexion">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Controlador.Conexion</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimConexion.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimConexion.#ctor(Controlador.Conexion)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimConexion.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimConexion.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimConexion.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimConexion.Constructor">
+            <summary>Establecer el shim de Conexion.Conexion()</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimConexion.StaticConstructor">
+            <summary>Establecer el shim de Conexion.Conexion()</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimConexion.cerrar">
+            <summary>Establecer el shim de Conexion.cerrar()</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimConexion.conectar">
+            <summary>Establecer el shim de Conexion.conectar()</summary>
+        </member>
+        <member name="T:Controlador.Fakes.ShimConexion.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimConexion.AllInstances.cerrar">
+            <summary>Establecer el shim de Conexion.cerrar()</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimConexion.AllInstances.conectar">
+            <summary>Establecer el shim de Conexion.conectar()</summary>
+        </member>
+        <member name="T:Controlador.Fakes.ShimProductoBD">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Controlador.ProductoBD</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimProductoBD.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimProductoBD.#ctor(Controlador.ProductoBD)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimProductoBD.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimProductoBD.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.Constructor">
+            <summary>Establecer el shim de ProductoBD.ProductoBD()</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.agregarProducto">
+            <summary>Establecer el shim de ProductoBD.agregar(Producto p)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.eliminarProducto">
+            <summary>Establecer el shim de ProductoBD.eliminar(Producto p)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.listar">
+            <summary>Establecer el shim de ProductoBD.listar()</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.modificarProducto">
+            <summary>Establecer el shim de ProductoBD.modificar(Producto p)</summary>
+        </member>
+        <member name="T:Controlador.Fakes.ShimProductoBD.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.AllInstances.agregarProducto">
+            <summary>Establecer el shim de ProductoBD.agregar(Producto p)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.AllInstances.eliminarProducto">
+            <summary>Establecer el shim de ProductoBD.eliminar(Producto p)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.AllInstances.listar">
+            <summary>Establecer el shim de ProductoBD.listar()</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimProductoBD.AllInstances.modificarProducto">
+            <summary>Establecer el shim de ProductoBD.modificar(Producto p)</summary>
+        </member>
+        <member name="T:Controlador.Fakes.ShimUsuarioBD">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Controlador.UsuarioBD</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimUsuarioBD.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimUsuarioBD.#ctor(Controlador.UsuarioBD)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimUsuarioBD.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Controlador.Fakes.ShimUsuarioBD.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.Constructor">
+            <summary>Establecer el shim de UsuarioBD.UsuarioBD()</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.EliminarCuentaString">
+            <summary>Establecer el shim de UsuarioBD.EliminarCuenta(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.ObtenerUsuarioString">
+            <summary>Establecer el shim de UsuarioBD.ObtenerUsuario(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.TipoUsuarioUsuario">
+            <summary>Establecer el shim de UsuarioBD.TipoUsuario(Usuario u)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.agregarClienteUsuario">
+            <summary>Establecer el shim de UsuarioBD.agregarCliente(Usuario u)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.agregarUsuarioUsuario">
+            <summary>Establecer el shim de UsuarioBD.agregarUsuario(Usuario u)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.inicioSesionStringString">
+            <summary>Establecer el shim de UsuarioBD.inicioSesion(String corr, String pass)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.mostrarEdadString">
+            <summary>Establecer el shim de UsuarioBD.mostrarEdad(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.mostrarFotoString">
+            <summary>Establecer el shim de UsuarioBD.mostrarFoto(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.mostrarNombreString">
+            <summary>Establecer el shim de UsuarioBD.mostrarNombre(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.mostrarPasswordString">
+            <summary>Establecer el shim de UsuarioBD.mostrarPassword(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.mostrarTipUsuarioString">
+            <summary>Establecer el shim de UsuarioBD.mostrarTipUsuario(String corr)</summary>
+        </member>
+        <member name="T:Controlador.Fakes.ShimUsuarioBD.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.EliminarCuentaString">
+            <summary>Establecer el shim de UsuarioBD.EliminarCuenta(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.ObtenerUsuarioString">
+            <summary>Establecer el shim de UsuarioBD.ObtenerUsuario(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.TipoUsuarioUsuario">
+            <summary>Establecer el shim de UsuarioBD.TipoUsuario(Usuario u)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.agregarClienteUsuario">
+            <summary>Establecer el shim de UsuarioBD.agregarCliente(Usuario u)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.agregarUsuarioUsuario">
+            <summary>Establecer el shim de UsuarioBD.agregarUsuario(Usuario u)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.inicioSesionStringString">
+            <summary>Establecer el shim de UsuarioBD.inicioSesion(String corr, String pass)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.mostrarEdadString">
+            <summary>Establecer el shim de UsuarioBD.mostrarEdad(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.mostrarFotoString">
+            <summary>Establecer el shim de UsuarioBD.mostrarFoto(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.mostrarNombreString">
+            <summary>Establecer el shim de UsuarioBD.mostrarNombre(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.mostrarPasswordString">
+            <summary>Establecer el shim de UsuarioBD.mostrarPassword(String corr)</summary>
+        </member>
+        <member name="P:Controlador.Fakes.ShimUsuarioBD.AllInstances.mostrarTipUsuarioString">
+            <summary>Establecer el shim de UsuarioBD.mostrarTipUsuario(String corr)</summary>
+        </member>
+        <member name="T:Controlador.Fakes.StubConexion">
+            <summary>Tipo stub de Controlador.Conexion</summary>
+        </member>
+        <member name="M:Controlador.Fakes.StubConexion.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Controlador.Fakes.StubConexion.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubConexion</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubConexion.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubConexion.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubConexion.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Controlador.Fakes.StubProductoBD">
+            <summary>Tipo stub de Controlador.ProductoBD</summary>
+        </member>
+        <member name="M:Controlador.Fakes.StubProductoBD.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Controlador.Fakes.StubProductoBD.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubProductoBD</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubProductoBD.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubProductoBD.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubProductoBD.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Controlador.Fakes.StubUsuarioBD">
+            <summary>Tipo stub de Controlador.UsuarioBD</summary>
+        </member>
+        <member name="M:Controlador.Fakes.StubUsuarioBD.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Controlador.Fakes.StubUsuarioBD.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubUsuarioBD</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubUsuarioBD.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubUsuarioBD.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Controlador.Fakes.StubUsuarioBD.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,35 @@
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Modelo\bin\Debug\Modelo.dll
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Modelo\bin\Debug\Modelo.pdb
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Modelo\obj\Debug\Modelo.dll
+D:\INACAP\INACAP Cuarto semestre\Taller de programacion 4\ProyectoFinal\Modelo\obj\Debug\Modelo.pdb
+E:\ProyectoFinal\Modelo\bin\Debug\Modelo.dll
+E:\ProyectoFinal\Modelo\bin\Debug\Modelo.pdb
+E:\ProyectoFinal\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+E:\ProyectoFinal\Modelo\obj\Debug\Modelo.dll
+E:\ProyectoFinal\Modelo\obj\Debug\Modelo.pdb
+D:\Users\mexan\Desktop\ProyectoFinal\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Users\mexan\Desktop\ProyectoFinal\Modelo\obj\Debug\Modelo.dll
+D:\Users\mexan\Desktop\ProyectoFinal\Modelo\obj\Debug\Modelo.pdb
+D:\Users\mexan\Desktop\ProyectoFinal\Modelo\bin\Debug\Modelo.dll
+D:\Users\mexan\Desktop\ProyectoFinal\Modelo\bin\Debug\Modelo.pdb
+E:\Progra 4\ProyectoFinal\Modelo\bin\Debug\Modelo.dll
+E:\Progra 4\ProyectoFinal\Modelo\bin\Debug\Modelo.pdb
+E:\Progra 4\ProyectoFinal\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+E:\Progra 4\ProyectoFinal\Modelo\obj\Debug\Modelo.dll
+E:\Progra 4\ProyectoFinal\Modelo\obj\Debug\Modelo.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\Modelo\bin\Debug\Modelo.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\Modelo\bin\Debug\Modelo.pdb
+C:\Users\19481438-0\Desktop\ProyectoFinal\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\19481438-0\Desktop\ProyectoFinal\Modelo\obj\Debug\Modelo.dll
+C:\Users\19481438-0\Desktop\ProyectoFinal\Modelo\obj\Debug\Modelo.pdb
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Modelo\bin\Debug\Modelo.dll
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Modelo\bin\Debug\Modelo.pdb
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Modelo\obj\Debug\Modelo.dll
+D:\Users\mexan\Desktop\aaa\ProyectoFinal\Modelo\obj\Debug\Modelo.pdb
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Modelo\bin\Debug\Modelo.dll
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Modelo\bin\Debug\Modelo.pdb
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Modelo\obj\Debug\Modelo.dll
+C:\Users\LeandroAndres\Desktop\Disquera\ProyectoFinal\Modelo\obj\Debug\Modelo.pdb

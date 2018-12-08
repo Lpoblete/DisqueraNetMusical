@@ -1,0 +1,121 @@
+﻿.fondo2
+{
+    font-family: 'Berlin Sans FB';
+}
+
+.titulo
+{
+    font-family: 'Showcard Gothic';
+    font-size: 200%;
+    color: black;
+    text-shadow: 0px 0px 50px cyan;
+    text-decoration: none;
+}
+
+.titulo:hover
+{
+    color: cyan;
+    text-shadow: 0px 0px 50px black;
+}
+
+.titulo2
+{
+    font-family: Impact;
+}
+
+.titulo3
+{
+    font-family: 'Showcard Gothic';
+    font-size: 200%;
+    color: black;
+    text-shadow: 0px 0px 50px orange;
+    text-decoration: none;
+}
+
+.titulo3:hover
+{
+    color: orange;
+    text-shadow: 0px 0px 50px black;
+}
+
+.fondo
+{
+background: rgba(226,226,226,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(226,226,226,1) 0%, rgba(219,219,219,0.6) 50%, rgba(209,209,209,0.59) 51%, rgba(254,254,254,0.2) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,0.6)), color-stop(51%, rgba(209,209,209,0.59)), color-stop(100%, rgba(254,254,254,0.2)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(226,226,226,1) 0%, rgba(219,219,219,0.6) 50%, rgba(209,209,209,0.59) 51%, rgba(254,254,254,0.2) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(226,226,226,1) 0%, rgba(219,219,219,0.6) 50%, rgba(209,209,209,0.59) 51%, rgba(254,254,254,0.2) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(226,226,226,1) 0%, rgba(219,219,219,0.6) 50%, rgba(209,209,209,0.59) 51%, rgba(254,254,254,0.2) 100%);
+background: radial-gradient(ellipse at center, rgba(226,226,226,1) 0%, rgba(219,219,219,0.6) 50%, rgba(209,209,209,0.59) 51%, rgba(254,254,254,0.2) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe', GradientType=1 );
+
+border-radius: 50px;
+}
+
+.usuIniciado
+{
+    font-family: Forte;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+.tabla 
+{
+background: rgba(181,238,236,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(181,238,236,1) 0%, rgba(42,229,210,1) 50%, rgba(190,239,236,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(181,238,236,1)), color-stop(50%, rgba(42,229,210,1)), color-stop(100%, rgba(190,239,236,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(181,238,236,1) 0%, rgba(42,229,210,1) 50%, rgba(190,239,236,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(181,238,236,1) 0%, rgba(42,229,210,1) 50%, rgba(190,239,236,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(181,238,236,1) 0%, rgba(42,229,210,1) 50%, rgba(190,239,236,1) 100%);
+background: radial-gradient(ellipse at center, rgba(181,238,236,1) 0%, rgba(42,229,210,1) 50%, rgba(190,239,236,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5eeec', endColorstr='#beefec', GradientType=1 );
+
+font-family: Cooper;
+color: black;
+border-radius: 30px;
+}
+
+.tabla2
+{
+background: rgba(252,234,187,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(252,234,187,1) 0%, rgba(252,205,77,1) 50%, rgba(248,181,0,1) 51%, rgba(251,223,147,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(252,234,187,1)), color-stop(50%, rgba(252,205,77,1)), color-stop(51%, rgba(248,181,0,1)), color-stop(100%, rgba(251,223,147,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(252,234,187,1) 0%, rgba(252,205,77,1) 50%, rgba(248,181,0,1) 51%, rgba(251,223,147,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(252,234,187,1) 0%, rgba(252,205,77,1) 50%, rgba(248,181,0,1) 51%, rgba(251,223,147,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(252,234,187,1) 0%, rgba(252,205,77,1) 50%, rgba(248,181,0,1) 51%, rgba(251,223,147,1) 100%);
+background: radial-gradient(ellipse at center, rgba(252,234,187,1) 0%, rgba(252,205,77,1) 50%, rgba(248,181,0,1) 51%, rgba(251,223,147,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fceabb', endColorstr='#fbdf93', GradientType=1 );
+
+font-family: Cooper;
+color: black;
+border-radius: 30px;
+}
+
+.eleccion 
+{
+    color: black;
+    text-decoration: none;
+}
+
+.eleccion:hover
+{
+    background-color: black;
+    border-radius: 100px;
+    color: cyan;
+    font-size: 120%;
+}
+
+.eleccion2
+{
+    color: black;
+    text-decoration: none;
+}
+
+.eleccion2:hover
+{
+    background-color: black;
+    border-radius: 100px;
+    color: orange;
+    font-size: 120%;
+}
+
